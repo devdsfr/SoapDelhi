@@ -1,0 +1,15 @@
+unit uCodigoEnvio;
+
+interface
+
+  const CodigoSEDEX_A_Vista = '04014'; // SEDEX à vista
+  const CodigoSEDEX_A_Vista_Pagamento_Entrega = '04065'; //SEDEX à vista pagamento na entrega
+  const CodigoSEDEX_12 = '40169'; //SEDEX 12 ( à vista e a faturar)
+  const CodigoSEDEX_10 = '40215'; // SEDEX 10 (à vista e a faturar)
+  const CodigoSEDEX_Hoje = '40290'; //SEDEX Hoje Varejo
+  const CodigoPAC_A_VISTA = '04510'; // PAC à vista
+  const CodigoPAC_A_Vista_Pagamento_Entrega = '04707'; //PAC à vista pagamento na entrega
+
+implementation
+
+end.

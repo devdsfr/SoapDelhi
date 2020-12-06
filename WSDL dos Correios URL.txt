@@ -1,0 +1,4 @@
+Serviço os Correios
+Os serviços SOAP são acessados através de uma URL, e o dos correios é a URL: http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx. Com base nessa URL podemos analisar os serviços disponibilizados, parâmetros, retornos, etc.
+
+O serviço que será consumido está disponível através da URL: http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx?op=CalcPrazo e inclusive podemos realizar um teste informando os dados nos respectivos campos, conforme Figura 3, e teremos o retorno via XML.

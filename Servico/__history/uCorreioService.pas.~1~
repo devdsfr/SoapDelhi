@@ -1,0 +1,22 @@
+unit uCorreios;
+
+interface
+
+uses CalcPrecoPrazo1;
+
+Type
+
+  TCorreios = class
+  public
+    class function CalcularPrazo(Codigo_Servico: string; CEP_Origem, CEP_Destino: String): cServico;
+  end;
+
+implementation
+
+class function TCorreios.CalcularPrazo(Codigo_Servico: string; CEP_Origem,
+  CEP_Destino: String): cServico;
+begin
+  Result := GetCalcPrecoPrazoWSSoap().CalcPrazo(Codigo_Servico, CEP_Origem, CEP_Destino).Servicos[0];
+end;
+
+end.

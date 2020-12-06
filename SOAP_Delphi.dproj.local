@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/07 17:03:48.000.716,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/24 09:28:00.000.685,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/25 15:08:58.000.624,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/01 15:07:59.000.772,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/21 14:24:13.000.519,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/22 08:24:54.000.058,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/07 08:21:41.000.680,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/11 08:28:13.000.042,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/11 11:33:55.000.039,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/05 09:39:38.000.477,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/05 11:08:01.000.502,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/23 10:28:59.000.790,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/27 08:43:53.000.705,=C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/27 08:44:35.000.784,C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\DevMedia\SOAP\uFrmPrincipal.pas</Transaction>
+    <Transaction>2017/12/27 08:44:35.000.784,C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\DevMedia\SOAP\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2017/12/27 08:44:41.000.200,C:\Users\wyama\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\DevMedia\SOAP\SOAP_Delphi.dproj</Transaction>
+    <Transaction>2017/12/27 08:46:36.000.187,=D:\DevMedia\SOAP\CalcPrecoPrazo1.pas</Transaction>
+    <Transaction>2017/12/27 08:52:49.000.739,=D:\DevMedia\SOAP\Unit1.pas</Transaction>
+    <Transaction>2017/12/27 08:53:00.000.022,=D:\DevMedia\SOAP\Unit1.pas</Transaction>
+    <Transaction>2017/12/27 08:53:32.000.219,D:\DevMedia\SOAP\Unit1.pas=D:\DevMedia\SOAP\uCorreios.pas</Transaction>
+    <Transaction>2018/01/17 14:27:47.000.494,=D:\DevMedia\SOAP\Unit1.pas</Transaction>
+    <Transaction>2018/01/17 14:28:00.000.983,D:\DevMedia\SOAP\uCodigoEnvio.pas=D:\DevMedia\SOAP\Unit1.pas</Transaction>
+    <Transaction>2018/01/18 10:25:44.000.574,D:\DevMedia\SOAP\CalcPrecoPrazo1.pas=</Transaction>
+    <Transaction>2018/01/18 10:25:44.000.651,D:\DevMedia\SOAP\uCorreios.pas=</Transaction>
+    <Transaction>2018/01/18 10:25:44.000.624,D:\DevMedia\SOAP\uCodigoEnvio.pas=</Transaction>
+    <Transaction>2018/01/18 10:27:22.000.591,=D:\DevMedia\SOAP\Servico\CalcPrecoPrazo1.pas</Transaction>
+    <Transaction>2018/01/18 10:27:22.000.604,=D:\DevMedia\SOAP\Servico\uCodigoEnvio.pas</Transaction>
+    <Transaction>2018/01/18 10:27:23.000.565,=D:\DevMedia\SOAP\Servico\uCorreios.pas</Transaction>
+    <Transaction>2018/01/18 10:27:39.000.510,D:\DevMedia\SOAP\Servico\uCorreios.pas=D:\DevMedia\SOAP\Servico\uCorreioService.pas</Transaction>
+    <Transaction>2018/01/18 10:27:54.000.945,D:\DevMedia\SOAP\Servico\CalcPrecoPrazo1.pas=D:\DevMedia\SOAP\Servico\uWSCalcPrecoPrazo.pas</Transaction>
+    <Transaction>2018/01/18 10:37:11.000.110,D:\DevMedia\SOAP\Servico\uCorreioService.pas=D:\DevMedia\SOAP\Servico\uCorreioCalcularEnvioServico.pas</Transaction>
+    <Transaction>2018/01/18 10:45:19.000.947,D:\DevMedia\SOAP\Servico\uWSCalcPrecoPrazo.pas=D:\DevMedia\SOAP\Servico\uCalcPrecoPrazoWS.pas</Transaction>
+    <Transaction>2018/01/18 10:55:09.000.372,D:\DevMedia\SOAP\Servico\uCorreioCalcularEnvioServico.pas=D:\DevMedia\SOAP\Servico\uCorreioServico.pas</Transaction>
+    <Transaction>2018/01/19 14:28:44.000.061,D:\DevMedia\SOAP\Servico\uCodigoEnvio.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
